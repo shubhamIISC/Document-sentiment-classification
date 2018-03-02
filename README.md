@@ -1,0 +1,2 @@
+# Document-sentiment-classification
+Bayes classifier has been implemented based on multinomial Bag of Words representation of a document.Also preprocessing such as stop word removal, stemmization etc have been peroformed. Codes have been provided in form of jupyter notebook and .py file. Also training data and test data has been provided. In test data, first 200 documents are positive and next 200 are negative. Accuracy of 82% has been obtained.
